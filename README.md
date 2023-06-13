@@ -23,7 +23,7 @@ The folder _**state by state data**_ contains individual data from each state. I
 
 ## support
 
-Feel free to email ebkim@alumni.stanford.edu if you have any questions about the data -- or need advice hounding a state for more data on their rape kits. 
+Feel free to email ebkim@alumni.stanford.edu if you have any questions about the data -- or need advice on hounding a state for more.
 
 ## acknowledgments
 
